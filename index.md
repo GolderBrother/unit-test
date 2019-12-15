@@ -286,6 +286,10 @@ PS：组件测试需要用到 enzyme 以及 enzyme-adapter-react-16 这两个库
 - [ant-design 组件库](https://github.com/ant-design/ant-design)
 - 阅读 Vant 组件库中的测试用例（在每个组件的 **tests** 目录下）
 
+## 一些学习地址
+- [Vue Test Utils](https://vue-test-utils.vuejs.org/zh/guides/#%E8%B5%B7%E6%AD%A5)
+- [jestjs](https://jestjs.io/docs/zh-Hans/expect)
+
 ## 总结
 
 总的来说在项目中进行单元测试需要学习的内容并不多，一个 Jest 外加一个能够挂载组件的库即可，一天既能上手这块的内容。
